@@ -1,0 +1,51 @@
+# Xcode generated files
+build/
+DerivedData/
+*.pbxuser
+!*.pbxproj
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+xcuserdata/
+
+# Swift Package Manager
+.swiftpm/
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Carthage
+Carthage/Build/
+
+# Documentation
+*.docset/
+
+# App Store Connect metadata
+*.itmsp/
+
+# Temporary files
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+
+# Crash reports
+*.crash
+
+# Backup files
+*.bak
+*.orig
+
+# User settings
+*.plist
+
+# Certificates and profiles (keep sensitive data out of version control)
+*.p12
+*.mobileprovision
+
+# Other files that should be ignored in the project.
+# Add your custom files here.
