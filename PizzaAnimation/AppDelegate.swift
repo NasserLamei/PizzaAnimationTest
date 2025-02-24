@@ -6,12 +6,7 @@
 //
 
 import UIKit
-// first commit
-//second commit
-// third commit
-// fourth commit
-// fifty commit
-// six commit
+// remove all comment at home .
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 // homw commit
