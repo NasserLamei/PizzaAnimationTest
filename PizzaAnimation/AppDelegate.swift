@@ -9,7 +9,7 @@ import UIKit
 // remove all comment at home .
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-// homw commit
+// home commit
     var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
