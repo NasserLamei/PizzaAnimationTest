@@ -7,6 +7,7 @@
 
 import UIKit
 // remove all comment at home .
+// that coomit in main . 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 // homw commit
